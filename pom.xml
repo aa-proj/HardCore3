@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>aa-proj</groupId>
-    <artifactId>jp.ahoaho.Hardcore3-1.19</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <artifactId>Hardcore3</artifactId>
+    <version>1.0</version>
     <packaging>jar</packaging>
 
     <name>Hardcore3_1.19</name>
